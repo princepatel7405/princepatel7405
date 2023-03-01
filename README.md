@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Mendpara</h1>
-<h3 align="center">A Passionate Full Stack Developer From India who is eagerly looking forward to work at your esteemed organization which offers challenging assignments and career growth prospects.</h3>
+<h3 align="center">A Passionate Full Stack Developer From India who is eagerly looking forward to working at your esteemed organization which offers challenging assignments and career growth prospects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princepatel7405&label=Profile%20views&color=0e75b6&style=flat" alt="princepatel7405" /> </p>
 
